@@ -1,6 +1,6 @@
 # 全球AI挑战赛
 ## 官方网址：https://challenger.ai/
-![image](https://github.com/liangzhicheng120/ai-global/blob/master/img/1.png)
+![image](https://github.com/liangzhicheng120/ai-global/blob/master/img/10.png)
 ![image](https://github.com/liangzhicheng120/ai-global/blob/master/img/2.png)
 ![image](https://github.com/liangzhicheng120/ai-global/blob/master/img/3.png)
 ![image](https://github.com/liangzhicheng120/ai-global/blob/master/img/4.png)
